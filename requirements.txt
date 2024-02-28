@@ -7,5 +7,3 @@ install time
 install requests
 install cloudscraper
 install rich
-install requests
-install random
